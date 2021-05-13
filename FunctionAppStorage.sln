@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31312.371
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionAppStorage", "FunctionAppStorage\FunctionAppStorage.csproj", "{8DB33A47-9029-4070-B40B-451DA3E6D562}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DB33A47-9029-4070-B40B-451DA3E6D562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DB33A47-9029-4070-B40B-451DA3E6D562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DB33A47-9029-4070-B40B-451DA3E6D562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DB33A47-9029-4070-B40B-451DA3E6D562}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66E2A879-B945-4515-A0DC-6768E0740478}
+	EndGlobalSection
+EndGlobal
